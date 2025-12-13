@@ -94,6 +94,34 @@ Technical and Vocational Training Corporation (TVTC) – Saudi Arabia
 - DFIR Basics
 - Governance, Risk & Compliance (GRC)
 
+🛡️ Absher Security Project
+
+🔗 Live Demo:
+👉 https://niaf-saleh.github.io/absher-securtiy/
+
+Description:
+A cybersecurity awareness and security concept project inspired by Absher Security.
+The project focuses on demonstrating security notifications, verification messages, and user awareness scenarios using a web-based interface.
+
+Technologies Used:
+
+HTML
+
+CSS
+
+JavaScript
+
+GitHub Pages (Deployment)
+
+Project Goals:
+
+Simulate real security notifications and alerts
+
+Raise awareness about account security and verification
+
+Present cybersecurity concepts in a simple and visual way
+
+Showcase frontend implementation for security-related ideas
 ---
 
 ## 📫 Contact
