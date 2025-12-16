@@ -1,107 +1,149 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>تنبه – Tanabbah</title>
+## Hi there 👋
+# 👋 Hi, I'm Naif Saleh Alotaibi
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="style.css">
-</head>
+🎯 **Cybersecurity Graduate | SOC & CyberOps Enthusiast**  
+🇸🇦 Saudi Arabia  
 
-<body>
+I am a cybersecurity graduate with strong hands-on experience in SOC operations, network security, log analysis, and threat detection.  
+My focus is on **Security Operations (SOC)**, **SIEM**, and **Cyber Defense**, with practical labs and real tools rather than theory only.
 
-<div class="container">
+---
 
-    <!-- Header -->
-    <header class="header">
-        <div class="brand">
-            <div class="brand-logo">
-                🛡️
-            </div>
-            <div class="brand-info">
-                <h1 class="brand-title">تنبه</h1>
-                <div class="brand-tagline">DIGITAL SECURITY AWARENESS</div>
-            </div>
-        </div>
+## 🛡️ Cybersecurity Focus Areas
+- Security Operations Center (SOC)
+- Cyber Defense & Monitoring
+- Network Security & Traffic Analysis
+- Log Analysis & Incident Investigation
+- Threat Detection & Response
+- Ethical Hacking (Beginner–Intermediate)
 
-        <div class="header-actions">
-            <button class="header-btn">
-                ⭐ <span class="btn-label">التطبيق</span>
-            </button>
+---
 
-            <div class="header-divider"></div>
+## 🧰 Tools & Technologies
+### 🔍 Security & SOC Tools
+- **Security Onion**
+- **Wireshark**
+- **Nmap**
+- **Arkime (Packet Capture)**
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**
+- **Velociraptor**
+- **YARA**
 
-            <button class="header-btn report-btn">
-                🚨 <span class="btn-label">إبلاغ</span>
-            </button>
-        </div>
-    </header>
+### 💻 Operating Systems & Environments
+- Windows (Event Viewer, Logs Analysis)
+- Linux (Ubuntu, Kali Linux)
+- VirtualBox (Lab Environments & VMs)
 
-    <!-- Main Layout -->
-    <div class="main-layout">
+### 🌐 Networking
+- TCP/IP Model
+- OSI Model
+- Ports & Protocols (HTTP, HTTPS, SSH, DNS)
+- IP Addressing & Subnetting
+- Firewalls, IDS, IPS
 
-        <!-- Input Panel -->
-        <div class="input-panel">
-            <div class="card">
-                <label class="input-label">الصق الرسالة أو الرابط المشبوه هنا:</label>
+---
 
-                <textarea class="message-textarea"
-                    placeholder="مثال: تم تعليق حسابك. يرجى الدخول عبر الرابط لتحديث البيانات خلال 24 ساعة..."></textarea>
+## 📚 Education
+🎓 **Diploma in Cybersecurity**  
+Technical and Vocational Training Corporation (TVTC) – Saudi Arabia  
+🏅 **Graduated with Distinction (Excellent)**
 
-                <div class="button-row">
-                    <button class="btn btn-paste">📋 لصق</button>
-                    <button class="btn btn-clear">🗑 مسح</button>
-                    <button class="btn btn-analyze">🔍 فحص الرسالة</button>
-                </div>
+---
 
-                <div class="loading">
-                    <div class="spinner"></div>
-                    جارٍ تحليل المحتوى...
-                </div>
+## 📜 Certifications & Learning
+- Cybersecurity Diploma – TVTC
+- Security+ (Studying)
+- Ethical Hacking Fundamentals (Ongoing)
+- IBM Data Analyst / Data Science (In Progress)
+- SOC & Blue Team Training (Hands-on Labs)
 
-                <!-- Result -->
-                <div class="result-card safe">
-                    <div class="result-header">
-                        <div class="result-icon">✅</div>
-                        <div class="result-info">
-                            <div class="result-title">آمن غالبًا</div>
-                            <div class="result-subtitle">لم يتم رصد مؤشرات احتيال</div>
-                            <div class="risk-score">Risk Score: 12</div>
-                        </div>
-                    </div>
+---
 
-                    <div class="result-explanation">
-                        الرابط تابع لنطاق موثوق ولا يحتوي على مؤشرات تصيد أو طلب بيانات حساسة.
-                    </div>
+## 🧪 Practical Platforms & Labs
+- **TryHackMe**
+- **Hack The Box**
+- **Let's Defend**
+- **SetDefend**
 
-                    <div class="warnings-section">
-                        <div class="warnings-title">نصائح:</div>
-                        <div class="warning-item">✔ تحقق دائمًا من اسم النطاق</div>
-                        <div class="warning-item">✔ لا تشارك رمز التحقق</div>
-                    </div>
-                </div>
-            </div>
-        </div>
+> Focused on real-world scenarios: log analysis, brute force detection, network attacks, and incident response.
 
-        <!-- Tips Panel -->
-        <div class="tips-panel">
-            <div class="info-box">
-                <h3>🛡️ نصائح الأمان</h3>
-                <ul>
-                    <li>لا تضغط على روابط مجهولة</li>
-                    <li>الجهات الرسمية لا تطلب بياناتك</li>
-                    <li>تأكد من النطاق الرسمي للجهة</li>
-                    <li>تنبه لا يطلب أي صلاحيات</li>
-                </ul>
-            </div>
-        </div>
+---
 
-    </div>
-</div>
+## 🛠️ Projects
+### 🔹 SOC & CyberOps Graduation Project
+- Built and configured **Security Onion**
+- Network scanning using **Nmap**
+- Traffic capture and analysis with **Wireshark**
+- Log monitoring and alerts using **ELK**
+- Incident analysis and reporting
+- Academic report (40+ pages) – Word & PDF
 
-<!-- JS -->
-<script src="script.js"></script>
+---
 
-</body>
-</html>
+## 🚀 Career Goals
+- SOC Analyst (Tier 1 / Tier 2)
+- Cyber Defense Analyst
+- Blue Team Specialist
+- SIEM Engineer (Future Goal)
+
+---
+
+## 🌱 Currently Learning
+- Advanced SIEM & Log Correlation
+- Windows Event Logs (Deep Analysis)
+- DFIR Basics
+- Governance, Risk & Compliance (GRC)
+
+🛡️ Absher Security Project
+
+🔗 Live Demo:
+👉 https://niaf-saleh.github.io/absher-securtiy/
+
+Description:
+A cybersecurity awareness and security concept project inspired by Absher Security.
+The project focuses on demonstrating security notifications, verification messages, and user awareness scenarios using a web-based interface.
+
+Technologies Used:
+
+HTML
+
+CSS
+
+JavaScript
+
+GitHub Pages (Deployment)
+
+Project Goals:
+
+Simulate real security notifications and alerts
+
+Raise awareness about account security and verification
+
+Present cybersecurity concepts in a simple and visual way
+
+Showcase frontend implementation for security-related ideas
+---
+
+## 📫 Contact
+- GitHub: **github.com/YourUsername**
+- LinkedIn: *(Add when ready)*
+
+---
+
+> “Learning cybersecurity is not about tools only,  
+> it’s about mindset, analysis, and continuous improvement.”
+
+<!--
+**niaf-saleh/niaf-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
